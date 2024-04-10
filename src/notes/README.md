@@ -5,10 +5,10 @@ as a lyre, Orpheus' musical instrument in Greek Mythology.
 
 The letters `RFE` are based on the `Akzidenz-Grotesk` font sometimes called
 `Standard` or `Basic Commercial`. The `R` is unchanged, but both the `F` and `E`
-have been simplified to be more symmetrical. Both `O` are fully custom made.
+have been simplified to be more symmetrical. Both `O`s are fully custom made.
 
 The lyre's four strings are drawn as uniquely tinted bars that represent four
-different datum.
+different notes or pieces of data.
 
 The text is in a red-wine color, while the bars are in various green-grape tints.
 
