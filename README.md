@@ -32,16 +32,16 @@ Various sizes of favicons are provided in `{name}/{version}/renders/`.
 
 The table below shows their uses:
 
-Size    | Name            | Purpose
-------- | --------------- | ----------------------------------------------------
-32x32   | favicon_32.png  | standard for most desktop browsers
-128x128 | favicon_128.png | Chrome Web Store icon & small Windows 8 Start Screen icon
-152x152 | favicon_152.png | iPad touch icon
-167×167 | favicon_167.png | iPad Retina touch icon
-180x180 | favicon_180.png | iPhone Retina icon
-192x192 | favicon_192.png | Google Developer Web App Manifest recommendation
-196x196 | favicon_196.png | Chrome for Android Home Screen icon
-200x200 | favicon_200.png | Github Repository icon
+Size    | Name                | Purpose
+------- | ------------------- | ----------------------------------------------------
+32x32   | favicon_32x32.png   | standard for most desktop browsers
+128x128 | favicon_128x128.png | Chrome Web Store icon & small Windows 8 Start Screen icon
+152x152 | favicon_152x152.png | iPad touch icon
+167×167 | favicon_167x167.png | iPad Retina touch icon
+180x180 | favicon_180x180.png | iPhone Retina icon
+192x192 | favicon_192x192.png | Google Developer Web App Manifest recommendation
+196x196 | favicon_196x196.png | Chrome for Android Home Screen icon
+200x200 | favicon_200x200.png | Github Repository icon
 
 ## Copyright
 
