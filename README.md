@@ -1,58 +1,47 @@
-# Logos and Favicons
+# Logo
 
-Logos and favicons for the Orfeo programming language.
+Orfeo's logo.
 
-http://orfeo.org
+## About
 
-## Usage
+This repository contains Orfeo's logo and its favicon version.
 
-The logos and favicons in this repository are trademarks of Pierre-Emmanuel Lévesque.
-Permission is granted for their non-exclusive use to label anything related to
-Orfeo in articles, blogs, etc... provided:
+You can use one of the rendered sizes, or use the original SVGs
+to render a custom size.
 
-1. They are not used to advertise or sell a product without the prior consent of Pierre-Emmanuel Lévesque.
-
-2. They are marked as a trademark by a footnote or with a TM mark `™` in a visible grey color.
-
-3. The http://orfeo.org link is included on the same page.
+Please view the LICENSE for allowed usage and usage requirements.
 
 ## Preview
 
-### Orfeo Logo
+### Logo
 
 ![orfeo_logo](src/renders/logo_570x128.png)
 
-### Orfeo Favicon
+### Favicon
 
 ![orfeo_favicon](src/renders/favicon_128x128.png)
 
-## Favicons
+## Renders
 
-Various sizes of favicons are provided in `{name}/{version}/renders/`.
+Various sizes of the logo and favicon are rendered in `src/renders/`.
 
-The table below shows their uses:
+### Logo
+
+Size    | Name             | Purpose
+------- | -----------------| ----------------------------------------------------
+201x45  | logo_201x45.png  | Small
+570x128 | logo_570x128.png | Medium
+624x140 | logo_624x140.png | Large
+
+### Favicon
 
 Size    | Name                | Purpose
 ------- | ------------------- | ----------------------------------------------------
-32x32   | favicon_32x32.png   | standard for most desktop browsers
-128x128 | favicon_128x128.png | Chrome Web Store icon & small Windows 8 Start Screen icon
+32x32   | favicon_32x32.png   | Standard for most desktop browsers
+128x128 | favicon_128x128.png | Chrome Web Store icon & Small Windows 8 Start Screen icon
 152x152 | favicon_152x152.png | iPad touch icon
 167×167 | favicon_167x167.png | iPad Retina touch icon
 180x180 | favicon_180x180.png | iPhone Retina icon
 192x192 | favicon_192x192.png | Google Developer Web App Manifest recommendation
 196x196 | favicon_196x196.png | Chrome for Android Home Screen icon
 200x200 | favicon_200x200.png | Github Repository icon
-
-## Copyright
-
-Copyright (c) 2019-2020, <a href="https://github.com/pelevesque">Pierre-Emmanuel Lévesque</a>
-
-## License
-
-Proprietary
-
-[LICENSE.txt](LICENSE.txt)
-
-<div align="center">
-  <sub>Built with ❤︎ by <a href="https://github.com/pelevesque">Pierre-Emmanuel Lévesque</a>
-</div>
