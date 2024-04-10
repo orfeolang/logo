@@ -28,7 +28,7 @@ Various sizes of the logo and favicon are rendered in `src/renders/`.
 ### Logo
 
 Size    | Name             | Purpose
-------- | -----------------| ----------------------------------------------------
+------- | -----------------| --------
 201x45  | logo_201x45.png  | Small
 570x128 | logo_570x128.png | Medium
 624x140 | logo_624x140.png | Large
@@ -36,7 +36,7 @@ Size    | Name             | Purpose
 ### Favicon
 
 Size    | Name                | Purpose
-------- | ------------------- | ----------------------------------------------------
+------- | ------------------- | ----------------------------------------------------------
 32x32   | favicon_32x32.png   | Standard for most desktop browsers
 128x128 | favicon_128x128.png | Chrome Web Store icon & Small Windows 8 Start Screen icon
 152x152 | favicon_152x152.png | iPad touch icon
