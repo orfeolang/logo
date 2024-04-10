@@ -20,11 +20,11 @@ Orfeo in articles, blogs, etc... provided:
 
 ### Orfeo Logo
 
-![orfeo_logo](orfeo/v1/renders/logo_570x128.png)
+![orfeo_logo](src/renders/logo_570x128.png)
 
 ### Orfeo Favicon
 
-![orfeo_favicon](orfeo/v1/renders/favicon_128.png)
+![orfeo_favicon](src/renders/favicon_128x128.png)
 
 ## Favicons
 
