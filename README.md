@@ -45,3 +45,8 @@ Size    | Name                | Purpose
 192x192 | favicon_192x192.png | Google Developer Web App Manifest recommendation
 196x196 | favicon_196x196.png | Chrome for Android Home Screen icon
 200x200 | favicon_200x200.png | Github Repository icon
+
+## License
+
+Proprietary License\
+Copyright 2020 Pierre-Emmanuel Lévesque
