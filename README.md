@@ -11,15 +11,20 @@ to render a custom size.
 
 Please view the LICENSE for allowed usage and usage requirements.
 
+## Version
+
+Use the latest version v1, v2, etc. as prior versions are only kept
+for historical reference.
+
 ## Preview
 
 ### Logo
 
-![orfeo_logo](src/renders/logo_570x128.png)
+![orfeo_logo](src/v2/renders/logo_570x128.png)
 
 ### Favicon
 
-![orfeo_favicon](src/renders/favicon_128x128.png)
+![orfeo_favicon](src/v2/renders/favicon_128x128.png)
 
 ## Renders
 
@@ -38,6 +43,7 @@ Size    | Name             | Purpose
 Size    | Name                | Purpose
 ------- | ------------------- | ----------------------------------------------------------
 32x32   | favicon_32x32.png   | Standard for most desktop browsers
+100x100 | favicon_100x100.png | Github organization picture
 128x128 | favicon_128x128.png | Chrome Web Store icon & Small Windows 8 Start Screen icon
 152x152 | favicon_152x152.png | iPad touch icon
 167×167 | favicon_167x167.png | iPad Retina touch icon
